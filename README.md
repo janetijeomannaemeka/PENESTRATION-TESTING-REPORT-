@@ -176,3 +176,6 @@ DNSRecon <img width="1920" height="1191" alt="image" src="https://github.com/use
 
 
 curl -l <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/b211efcf-b605-4fef-8683-f223532be34c" />
+
+
+Zenmap / Nmap <img width="1209" height="1181" alt="image" src="https://github.com/user-attachments/assets/dadc5901-b18d-41dd-bc54-c56d62039dec" />
