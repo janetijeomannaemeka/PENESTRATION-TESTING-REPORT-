@@ -169,3 +169,5 @@ The results demonstrate the value of reconnaissance and scanning in understandin
 whatweb <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/1c7a4d4f-e5e0-4574-8737-b11173e3e844" />
 
 wafwoof <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/7c52cbae-0042-4ca7-a273-3d32567c22bb" />
+
+<img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/78cb5bad-3b53-46f6-a626-66c38a5d54cc" />
