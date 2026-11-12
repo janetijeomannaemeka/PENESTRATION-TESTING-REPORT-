@@ -174,3 +174,5 @@ Nslookup <img width="1920" height="1191" alt="image" src="https://github.com/use
 
 DNSRecon <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/fd82fcaf-2e5c-44eb-9039-2513b555d8a4" />
 
+
+curl -l <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/b211efcf-b605-4fef-8683-f223532be34c" />
