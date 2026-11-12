@@ -164,4 +164,6 @@ The results demonstrate the value of reconnaissance and scanning in understandin
 
 ## Project Evidence
 
-![whois ](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-SOC-PROJECT--WIRESHARK/blob/main/Lab%206%20Result%20-%20Janet%20Nnaemeka.png?raw=true) 
+![whois ](<img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/0113a27d-b070-4a5e-8b44-9edb0b04f7f5" />
+
+) 
