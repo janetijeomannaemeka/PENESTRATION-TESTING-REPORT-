@@ -168,3 +168,4 @@ The results demonstrate the value of reconnaissance and scanning in understandin
 
 whatweb <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/1c7a4d4f-e5e0-4574-8737-b11173e3e844" />
 
+wafwoof https://github.com/janetijeomannaemeka/PENESTRATION-TESTING-REPORT-/blob/main/wafwoof%20screenshot%20results.png?raw=true
