@@ -170,4 +170,7 @@ whatweb <img width="1920" height="1191" alt="image" src="https://github.com/user
 
 wafwoof <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/7c52cbae-0042-4ca7-a273-3d32567c22bb" />
 
-<img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/78cb5bad-3b53-46f6-a626-66c38a5d54cc" />
+Nslookup <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/78cb5bad-3b53-46f6-a626-66c38a5d54cc" />
+
+DNSRecon <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/fd82fcaf-2e5c-44eb-9039-2513b555d8a4" />
+
