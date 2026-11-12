@@ -162,8 +162,9 @@ The exercises provided practical experience with reconnaissance, domain footprin
 The results demonstrate the value of reconnaissance and scanning in understanding a target’s visible attack surface. The observations should guide defensive review and must not be interpreted as confirmed vulnerabilities. Further assessment would require a defined scope, appropriate authorisation and additional validation.
 
 
-## Project Evidence
+## Report Evidence
 
 ![whois ](<img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/0113a27d-b070-4a5e-8b44-9edb0b04f7f5" />
 
-) 
+whatweb <img width="1920" height="1191" alt="image" src="https://github.com/user-attachments/assets/1c7a4d4f-e5e0-4574-8737-b11173e3e844" />
+
