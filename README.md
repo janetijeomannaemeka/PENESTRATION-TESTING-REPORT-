@@ -12,9 +12,9 @@ Permission	Written permission for the domain exercise is stated as secured by th
 Phases	Reconnaissance & Footprinting; Scanning & Network Discovery
 
 1. Liability Disclaimer and Scope
-This report documents reconnaissance, footprinting and network-discovery exercises completed for the stated training modules. The author states that written permission was secured for the domain footprinting exercise. Zenmap scanning was directed at the author’s own local network range, 172.20.10.2/24. This report is limited to the supplied screenshots. It does not claim exploitation or vulnerability validation. Findings are observations, not confirmed vulnerabilities.
+This report documents reconnaissance, footprinting and network-discovery exercises completed for the stated training modules. The permission was secured for the domain footprinting exercise. Zenmap scanning was directed at my own local network range, 172.20.10.2/24. 
 2. Introduction and Objectives
-The objective was to practise the early stages of a penetration-testing workflow: reconnaissance and footprinting, followed by scanning and network discovery. The exercises used Kali Linux tools and Zenmap to collect publicly observable domain information and inspect the author’s local network.
+The objective was to practise the early stages of a penetration-testing workflow: reconnaissance and footprinting, followed by scanning and network discovery. The exercises used Kali Linux tools and Zenmap to collect publicly observable domain information and inspect the my local network.
 Identify domain registration and nameserver information.
 Identify web technologies and the website’s resolved IP address.
 Detect the presence of a Web Application Firewall.
@@ -152,14 +152,18 @@ LAN hosts discoverable	Three LAN IP addresses visible in Zenmap topology.	Inform
 Investigate intermittent DNS and connection failures if reproducible.
 Perform any further testing only with explicit written authorisation and a defined scope.
 7. Limitations
-This report is based on the supplied screenshots and does not include complete raw scan files.
-WHOIS, DNS, HTTP and technology-fingerprinting results can change over time.
-The Zenmap topology supports three visible LAN IP addresses plus localhost, not four remote hosts.
-The Zenmap screenshot does not clearly associate every service name with a specific IP address.
-No exploitation or vulnerability validation is evidenced by the supplied screenshots.
+WHOIS, DNS, HTTP and technology-fingerprinting results can change over time.
+The Zenmap topology supports three visible LAN IP addresses plus localhost, not four remote hosts.
+The Zenmap screenshot does not clearly associate every service name with a specific IP address.
+No exploitation or vulnerability validation is evidenced by the supplied screenshots.
 8. Conclusion
 The exercises provided practical experience with reconnaissance, domain footprinting, DNS enumeration, web-technology identification, WAF fingerprinting, HTTP-header review and local network discovery. The tools identified publicly observable information about networkwalks.com, including web technologies, its resolved IP address, DNS and mail-related records, nameservers and detectable WAF technology. The Zenmap topology showed three LAN IP addresses in the scanned local network range, in addition to localhost.
 The results demonstrate the value of reconnaissance and scanning in understanding a target’s visible attack surface. The observations should guide defensive review and must not be interpreted as confirmed vulnerabilities. Further assessment would require a defined scope, appropriate authorisation and additional validation.
+
+
+
+https://www.linkedin.com/in/janet-nnaemeka-164a521b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
 
 
 ## Report Evidence
