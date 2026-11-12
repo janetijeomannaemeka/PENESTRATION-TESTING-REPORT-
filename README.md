@@ -160,3 +160,8 @@ LAN hosts discoverable	Three LAN IP addresses visible in Zenmap topology.	Inform
 8. Conclusion
 The exercises provided practical experience with reconnaissance, domain footprinting, DNS enumeration, web-technology identification, WAF fingerprinting, HTTP-header review and local network discovery. The tools identified publicly observable information about networkwalks.com, including web technologies, its resolved IP address, DNS and mail-related records, nameservers and detectable WAF technology. The Zenmap topology showed three LAN IP addresses in the scanned local network range, in addition to localhost.
 The results demonstrate the value of reconnaissance and scanning in understanding a target’s visible attack surface. The observations should guide defensive review and must not be interpreted as confirmed vulnerabilities. Further assessment would require a defined scope, appropriate authorisation and additional validation.
+
+
+## Project Evidence
+
+![whois ](https://github.com/janetijeomannaemeka/NETWORKWALKS-B084-WK1-PM1-CYBERSECURITY-SOC-PROJECT--WIRESHARK/blob/main/Lab%206%20Result%20-%20Janet%20Nnaemeka.png?raw=true) 
